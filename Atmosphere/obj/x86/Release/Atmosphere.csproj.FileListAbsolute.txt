@@ -1,0 +1,7 @@
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\bin\Release\Atmosphere.exe.config
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\bin\Release\Atmosphere.exe
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Release\Atmosphere.MainForm.resources
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Release\Atmosphere.exe

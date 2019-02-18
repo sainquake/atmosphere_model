@@ -1,0 +1,26 @@
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\bin\Debug\Atmosphere.exe.config
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\bin\Debug\Atmosphere.exe
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\bin\Debug\Atmosphere.pdb
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.exe
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.pdb
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.MainForm.resources
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\Atmosphere\Atmosphere\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Duty\61\Atmosphere\Atmosphere\bin\Debug\Atmosphere.exe.config
+C:\Dropbox\Duty\61\Atmosphere\Atmosphere\bin\Debug\Atmosphere.exe
+C:\Dropbox\Duty\61\Atmosphere\Atmosphere\bin\Debug\Atmosphere.pdb
+C:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.MainForm.resources
+C:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.exe
+C:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.pdb
+D:\Dropbox\Duty\61\Atmosphere\Atmosphere\bin\Debug\Atmosphere.exe.config
+D:\Dropbox\Duty\61\Atmosphere\Atmosphere\bin\Debug\Atmosphere.exe
+D:\Dropbox\Duty\61\Atmosphere\Atmosphere\bin\Debug\Atmosphere.pdb
+D:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.csprojResolveAssemblyReference.cache
+D:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.MainForm.resources
+D:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.csproj.GenerateResource.Cache
+D:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.exe
+D:\Dropbox\Duty\61\Atmosphere\Atmosphere\obj\x86\Debug\Atmosphere.pdb
